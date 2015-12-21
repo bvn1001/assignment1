@@ -1,0 +1,217 @@
+@charset "utf-8";
+/* CSS Document */
+.heading1{
+	font-size: 50px;
+	color: #03F;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background-color: #C60;
+	
+}
+.sp1{
+	font-size: 38px;
+	color: red;
+}
+.pa1{
+	color: #03F;
+	font-family:"Comic Sans MS", cursive;
+}
+.b1{
+	background-color: #CF0;
+}
+img{
+	border-style: double;
+	border-width: thin;
+	border-color: #93F;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+	font-size: 30px;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.heading2{
+	color:#F90;
+	font-size: 40px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+}
+.pa2{
+	font-family: "Comic Sans MS", cursive;
+	color: #690;
+}
+strong{
+	color: red;
+}
+.b2{
+	background-color: #FCC;
+}
+.sp2{
+	color: #903;
+	font-size: 38px;
+}
+.b3{
+	background-color: #FF0;
+}
+.heading3{
+	font-size: 40px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #F06;
+}
+.l1{
+	color: #F6F;
+	font-family: "Comic Sans MS", cursive;
+}
+.l2{
+	color: #C30;
+	font-family: "Comic Sans MS", cursive;
+}
+.l3{
+	color: #36C;
+	font-family: "Comic Sans MS", cursive;
+}
+.l4{
+	color: #966;
+	font-family: "Comic Sans MS", cursive;
+}
+.b4{
+	background-color: #CC6;
+}
+.heading4{
+	font-size: 40px;
+	color: #C60;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.pa4{
+	color: #C6C;
+	font-family:"Comic Sans MS", cursive;
+}
+em{
+	color:#F00;
+}
+.sp4{
+	font-size: 38px;
+	color:#900;
+}
+.b5{
+	background-color: #FC0;
+}
+.heading5{
+	font-size: 40px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #906;
+}
+.pa5{
+	font-family: "Comic Sans MS", cursive;
+	color: #60F;
+}
+.b6{
+	background-color: #FFC;
+}
+.heading6{
+	color: #99F;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 40px;	
+}	
+.pa6{
+	font-family:"Comic Sans MS", cursive;
+	color: #C09;	
+}
+.sp6{
+	font-size: 38px;
+	color: #393;
+}
+.t6{
+	float: right;
+}
+#info{
+	font-weight: bold;
+	color: red;
+}
+#left{
+	float: left;
+	width: 45%;
+}
+#right{
+	float: right;
+	width: 45%;
+	
+}
+#footer{
+	clear: both;
+}
+.b7{
+	background-color: #CF0;
+}
+.heading7{
+	font-size: 50px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #C00;
+}
+.pa7{
+	font-size: 30px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #930;
+	font-weight:bold;
+}
+.t7{
+	border-style: double;
+	border-color: #C90;
+	border-width:thick;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+td{
+	background-color: #06C;
+}
+#pos{
+	color: #696;
+}
+#team{
+	color: #F00;
+}
+#played{
+	color: #FF0;
+}
+#win{
+	color: #F60;
+}
+#lose{
+	color: #C0C;
+}
+#draw{
+	color: #3FC;
+}
+#for{
+	color: #600;
+}
+#again{
+	color: #FC6;
+}
+#point{
+	color: #FFC;
+}
+.play{
+	color: #99F;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 40px;
+}

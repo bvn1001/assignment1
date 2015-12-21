@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+
+<link href="../Style/Stylesheet.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class ="b7">
+
+<nav>
+<ul>
+			<li><a href ="index.html">Home</a></li>
+        	<li><a href ="part1.html">Player</a></li>
+            <li><a href ="part2.html">Information</a></li>
+            <li><a href ="part3.html">Contact</a></li>
+            <li><a href ="part4.html">Announcment</a></li>
+            <li><a href="part5.html">Links</a></li>
+            <li><a href="part6.html">Sign-up</a></li>
+        </ul>
+</nav>
+<h3 class="heading7">Diggers Beach Volleyball</h3>
+    	<p class="pa7">The current competition ladder</p>
+    	<table class="t7" width="769" border="1">
+    	  <tr>
+    	    <th width="64">Pos</th>
+    	    <th width="87">Team</th>
+    	    <th width="66">Played</th>
+    	    <th width="50">Wins</th>
+    	    <th width="67">Loses</th>
+    	    <th width="69">Draws</th>
+    	    <th width="90">For Pts</th>
+    	    <th width="131">Again Pts</th>
+    	    <th width="87">Points</th>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">1</td>
+    	    <td id ="team">Beachies</td>
+    	    <td id="played">13</td>
+    	    <td id ="win">13</td>
+    	    <td id="lose">0</td>
+    	    <td id="draw">0</td>
+    	    <td id ="for">651</td>
+    	    <td id="again">312</td>
+    	    <td id="point">189</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">2</td>
+    	    <td id ="team">Wardsandy</td>
+    	    <td id="played">13</td>
+    	    <td id ="win">10</td>
+    	    <td id="lose">2</td>
+    	    <td id="draw">1</td>
+    	    <td id ="for">541</td>
+    	    <td id="again">443</td>
+    	    <td id="point">169</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">3</td>
+    	    <td id ="team">Flashmann</td>
+    	    <td id="played">14</td>
+    	    <td id ="win">8</td>
+    	    <td id="lose">5</td>
+    	    <td id="draw">1</td>
+    	    <td id ="for">559</td>
+    	    <td id="again">552</td>
+    	    <td id="point">167</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">4</td>
+    	    <td id ="team">Googlers</td>
+    	    <td id="played">14</td>
+    	    <td id ="win">7</td>
+    	    <td id="lose">6</td>
+    	    <td id="draw">1</td>
+    	    <td id ="for">558</td>
+    	    <td id="again">485</td>
+    	    <td id="point">163</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">5</td>
+    	    <td id ="team">Kumeras</td>
+    	    <td id="played">14</td>
+    	    <td id ="win">8</td>
+    	    <td id="lose">6</td>
+    	    <td id="draw">0</td>
+    	    <td id ="for">528</td>
+    	    <td id="again">517</td>
+    	    <td id="point">162</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">6</td>
+    	    <td id ="team">Spikers</td>
+    	    <td id="played">14</td>
+    	    <td id ="win">4</td>
+    	    <td id="lose">9</td>
+    	    <td id="draw">1</td>
+    	    <td id ="for">488</td>
+    	    <td id="again">588</td>
+    	    <td id="point">146</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">7</td>
+    	    <td id ="team">Pikers</td>
+    	    <td id="played">13</td>
+    	    <td id ="win">4</td>
+    	    <td id="lose">7</td>
+    	    <td id="draw">0</td>
+    	    <td id ="for">495</td>
+    	    <td id="again">518</td>
+    	    <td id="point">145</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">8</td>
+    	    <td id ="team">Kimkhis</td>
+    	    <td id="played">14</td>
+    	    <td id ="win">3</td>
+    	    <td id="lose">11</td>
+    	    <td id="draw">0</td>
+    	    <td id ="for">537</td>
+    	    <td id="again">623</td>
+    	    <td id="point">139</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">9</td>
+    	    <td id ="team">Setties</td>
+    	    <td id="played">12</td>
+    	    <td id ="win">6</td>
+    	    <td id="lose">6</td>
+    	    <td id="draw">0</td>
+    	    <td id ="for">460</td>
+    	    <td id="again">484</td>
+    	    <td id="point">137</td>
+  	    </tr>
+    	  <tr>
+    	    <td id ="pos">10</td>
+    	    <td id ="team">Side Out</td>
+    	    <td id="played">12</td>
+    	    <td id ="win">3</td>
+    	    <td id="lose">9</td>
+    	    <td id="draw">0</td>
+    	    <td id ="for">454</td>
+    	    <td id="again">451</td>
+    	    <td id="point">136</td>
+  	    </tr>
+  	  </table>
+    	<p>&nbsp;</p>
+</body>
+</html>

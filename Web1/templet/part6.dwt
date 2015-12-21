@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+
+<link href="../Style/Stylesheet.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="b6">
+<nav>
+		<ul>
+        	<li><a href ="index.html">Home</a></li>
+        	<li><a href ="part1.html">Player</a></li>
+            <li><a href ="part2.html">Information</a></li>
+            <li><a href ="part3.html">Contact</a></li>
+            <li><a href ="part4.html">Announcment</a></li>
+            <li><a href ="part5.html">Links</a></li>
+            <li><a href ="part6.html">Sign-up</a></li>
+        </ul>
+</nav>
+<h3 class="heading6">Sign-up</h3>
+<div id ="left">
+<p><img src="../Media/receiving.jpg" width="433" height="531" alt="p6" longdesc="file:///C|/Users/User/Desktop/CP1406/Web1/Media/receiving.jpg" /></p>
+</div>
+<div id ="right">
+<table class ="t6"width="677" border="1">
+  <tr>
+    <td width="211" id="info">Contact person name:</td>
+    <td width="450"><form id="form1" name="form1" method="post" action="">
+      <label for="textfield"></label>
+      <input name="textfield" type="text" id="textfield" size="50" />
+    </form></td>
+  </tr>
+  <tr>
+    <td id="info">Phone number:</td>
+    <td><form id="form2" name="form2" method="post" action="">
+      <label for="textfield2"></label>
+      <input name="textfield2" type="text" id="textfield2" size="50" />
+    </form></td>
+  </tr>
+  <tr>
+    <td id="info">Email address:</td>
+    <td><form id="form3" name="form3" method="post" action="">
+      <label for="textfield3"></label>
+      <input name="textfield3" type="text" id="textfield3" size="50" />
+    </form></td>
+  </tr>
+  <tr>
+    <td id="info">Competition day:</td>
+    <td><form id="form4" name="form4" method="post" action="">
+      <label for="select"></label>
+      <select name="select" id="select">
+        <option value="MON">Monday</option>
+        <option value="TUE">Tuesday</option>
+        <option value="WED">Wednesday</option>
+        <option value="THU">Thursday</option>
+        <option value="FRI">Friday</option>
+        <option value="SAT">Saturday</option>
+        <option value="SUN">Sunday</option>
+      </select>
+    </form></td>
+  </tr>
+  <tr>
+    <td height="108" id="info">You have read and agrre with our playing guidelines (below)</td>
+    <td><form id="form5" name="form5" method="post" action="">
+      <input type="checkbox" name="checkbox" id="checkbox" />
+      <label for="checkbox">Yes</label>
+      <input type="checkbox" name="checkbox2" id="checkbox2" />
+      <label for="checkbox2">No</label>
+    </form></td>
+  </tr>
+</table>
+
+<form id="form6" name="form6" method="post" action="">
+  <input type="submit" name="Submit" id="Submit" value="Submit" />
+  <input type="submit" name="Reset" id="Reset" value="Reset" />
+</form>
+<p class="play" ><em>Playing Guidelines</em></p>
+<p class="pa6"><span class="sp6">P</span>articipants in Diggers Beach Volleyball  play at their own risk and are responsible for their own safety and should only  play if they are capable. Check with your doctor before you begin.
+Game fees must be paid prior to the start of the  game. Games may be cancelled up to 4 hours beforehand to get a refund. Without  4 hours' notice, participants will forfeit the game and be charged 50% of the  game fee.</p>
+</div>
+</body>
+</html>

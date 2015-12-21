@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+<link href="../Style/Stylesheet.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body class="b1">
+<nav>
+<ul>
+			<li><a href ="index.html">Home</a></li>
+        	<li><a href ="part1.html">Player</a></li>
+            <li><a href ="part2.html">Information</a></li>
+            <li><a href ="part3.html">Contact</a></li>
+            <li><a href ="part4.html">Announcment</a></li>
+            <li><a href="part5.html">Links</a></li>
+            <li><a href="part6.html">Sign-up</a></li>
+        </ul>
+</nav>
+<h3 class="heading1">Who can play</h3>
+<div>
+<p><img src="../Media/spike.jpg" width="791" height="341" longdesc="Media/spike.jpg" /></p></div>
+<p class="pa1"><span class ="sp1">T</span>here are millions of  people all around the world who play volleyball at least once a week. Volleyball is a sport that is safe, fun and does not require extreme  fitness. Since you don&rsquo;t have to move around the court too fast, it&rsquo;s great for  people who want a low-impact sport that will help them get fit without pushing  them to their limit. For those who are a bit more competitive, the sport is  fantastic because games can be really exciting and intense, but there&rsquo;s always  a net between you and your opponents. <br />
+Beach volleyball is suitable for people of  all ages, and men and women alike.
+Anyone considering starting a new sport or  exercise program should see a doctor first.</p>
+</body>
+</html>
